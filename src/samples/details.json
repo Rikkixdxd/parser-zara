@@ -1,0 +1,755 @@
+[
+  {
+    "id": 472397209,
+    "type": "Product",
+    "kind": "Wear",
+    "state": "visible",
+    "brand": {
+      "brandId": 1,
+      "brandGroupId": 1,
+      "brandGroupCode": "zara"
+    },
+    "name": "STRIPED RELAXED FIT TROUSERS",
+    "detail": {
+      "reference": "05584344-I2025",
+      "displayReference": "5584/344",
+      "colors": [
+        {
+          "id": "600",
+          "hexCode": "#6D0012",
+          "productId": 472398470,
+          "name": "Red",
+          "reference": "C05584344600000-I2025",
+          "stylingId": "0",
+          "xmedia": [
+            {
+              "datatype": "xmedia",
+              "set": 2,
+              "type": "image",
+              "kind": "full",
+              "path": "/assets/public/6810/4e6d/9b554e7aab96/8fdd93cca48e/05584344600-p",
+              "name": "05584344600-p",
+              "width": 2048,
+              "height": 3072,
+              "timestamp": "1755766288826",
+              "allowedScreens": [
+                "large",
+                "small"
+              ],
+              "gravity": "top",
+              "extraInfo": {
+                "originalName": "p",
+                "assetId": "68104e6d9b554e7aab968fdd93cca48e",
+                "deliveryUrl": "https://static.zara.net/assets/public/6810/4e6d/9b554e7aab96/8fdd93cca48e/05584344600-p/05584344600-p.jpg?ts=1755766288826",
+                "deliveryPath": "/assets/public/6810/4e6d/9b554e7aab96/8fdd93cca48e/05584344600-p/05584344600-p.jpg?ts=1755766288826"
+              },
+              "url": "https://static.zara.net/assets/public/6810/4e6d/9b554e7aab96/8fdd93cca48e/05584344600-p/05584344600-p.jpg?ts=1755766288826&w={width}",
+              "metaUrl": "https://static.zara.net/assets/public/6810/4e6d/9b554e7aab96/8fdd93cca48e/meta.json?ts=1755766288832",
+              "order": 1
+            },
+            {
+              "datatype": "xmedia",
+              "set": 2,
+              "type": "image",
+              "kind": "other",
+              "path": "/assets/public/0ff3/a065/95d0499991d9/225cdf3fdb64/05584344600-a1",
+              "name": "05584344600-a1",
+              "width": 2048,
+              "height": 3072,
+              "timestamp": "1755766288674",
+              "allowedScreens": [
+                "small",
+                "large"
+              ],
+              "gravity": "top",
+              "extraInfo": {
+                "originalName": "a1",
+                "assetId": "0ff3a06595d0499991d9225cdf3fdb64",
+                "deliveryUrl": "https://static.zara.net/assets/public/0ff3/a065/95d0499991d9/225cdf3fdb64/05584344600-a1/05584344600-a1.jpg?ts=1755766288674",
+                "deliveryPath": "/assets/public/0ff3/a065/95d0499991d9/225cdf3fdb64/05584344600-a1/05584344600-a1.jpg?ts=1755766288674"
+              },
+              "url": "https://static.zara.net/assets/public/0ff3/a065/95d0499991d9/225cdf3fdb64/05584344600-a1/05584344600-a1.jpg?ts=1755766288674&w={width}",
+              "metaUrl": "https://static.zara.net/assets/public/0ff3/a065/95d0499991d9/225cdf3fdb64/meta.json?ts=1755766288680",
+              "order": 2
+            },
+            {
+              "datatype": "xmedia",
+              "set": 2,
+              "type": "image",
+              "kind": "other",
+              "path": "/assets/public/ff04/cd4a/5d964aa69e9c/87a92b754f21/05584344600-000-a2",
+              "name": "05584344600-000-a2",
+              "width": 2048,
+              "height": 3072,
+              "timestamp": "1760100757985",
+              "allowedScreens": [
+                "small",
+                "large"
+              ],
+              "gravity": "top",
+              "extraInfo": {
+                "originalName": "a2",
+                "assetId": "ff04cd4a5d964aa69e9c87a92b754f21",
+                "deliveryUrl": "https://static.zara.net/assets/public/ff04/cd4a/5d964aa69e9c/87a92b754f21/05584344600-000-a2/05584344600-000-a2.jpg?ts=1760100757985",
+                "deliveryPath": "/assets/public/ff04/cd4a/5d964aa69e9c/87a92b754f21/05584344600-000-a2/05584344600-000-a2.jpg?ts=1760100757985"
+              },
+              "url": "https://static.zara.net/assets/public/ff04/cd4a/5d964aa69e9c/87a92b754f21/05584344600-000-a2/05584344600-000-a2.jpg?ts=1760100757985&w={width}",
+              "metaUrl": "https://static.zara.net/assets/public/ff04/cd4a/5d964aa69e9c/87a92b754f21/meta.json?ts=1760100757992",
+              "order": 3
+            },
+            {
+              "datatype": "xmedia",
+              "set": 2,
+              "type": "image",
+              "kind": "other",
+              "path": "/assets/public/f4ed/9289/bab442b3aae3/edfc656073e4/05584344600-a3",
+              "name": "05584344600-a3",
+              "width": 2048,
+              "height": 3072,
+              "timestamp": "1755766288719",
+              "allowedScreens": [
+                "small",
+                "large"
+              ],
+              "gravity": "top",
+              "extraInfo": {
+                "originalName": "a3",
+                "assetId": "f4ed9289bab442b3aae3edfc656073e4",
+                "deliveryUrl": "https://static.zara.net/assets/public/f4ed/9289/bab442b3aae3/edfc656073e4/05584344600-a3/05584344600-a3.jpg?ts=1755766288719",
+                "deliveryPath": "/assets/public/f4ed/9289/bab442b3aae3/edfc656073e4/05584344600-a3/05584344600-a3.jpg?ts=1755766288719"
+              },
+              "url": "https://static.zara.net/assets/public/f4ed/9289/bab442b3aae3/edfc656073e4/05584344600-a3/05584344600-a3.jpg?ts=1755766288719&w={width}",
+              "metaUrl": "https://static.zara.net/assets/public/f4ed/9289/bab442b3aae3/edfc656073e4/meta.json?ts=1755766288726",
+              "order": 4
+            },
+            {
+              "datatype": "xmedia",
+              "set": 2,
+              "type": "image",
+              "kind": "other",
+              "path": "/assets/public/5db2/acb4/87e445af92ef/4d4df536c431/05584344600-a4",
+              "name": "05584344600-a4",
+              "width": 2048,
+              "height": 3072,
+              "timestamp": "1755766289165",
+              "allowedScreens": [
+                "small",
+                "large"
+              ],
+              "gravity": "top",
+              "extraInfo": {
+                "originalName": "a4",
+                "assetId": "5db2acb487e445af92ef4d4df536c431",
+                "deliveryUrl": "https://static.zara.net/assets/public/5db2/acb4/87e445af92ef/4d4df536c431/05584344600-a4/05584344600-a4.jpg?ts=1755766289165",
+                "deliveryPath": "/assets/public/5db2/acb4/87e445af92ef/4d4df536c431/05584344600-a4/05584344600-a4.jpg?ts=1755766289165"
+              },
+              "url": "https://static.zara.net/assets/public/5db2/acb4/87e445af92ef/4d4df536c431/05584344600-a4/05584344600-a4.jpg?ts=1755766289165&w={width}",
+              "metaUrl": "https://static.zara.net/assets/public/5db2/acb4/87e445af92ef/4d4df536c431/meta.json?ts=1755766289173",
+              "order": 5
+            },
+            {
+              "datatype": "xmedia",
+              "set": 2,
+              "type": "image",
+              "kind": "plain",
+              "path": "/assets/public/a388/fe2a/ddaf47679138/8ce997d0096e/05584344600-e1",
+              "name": "05584344600-e1",
+              "width": 2048,
+              "height": 3072,
+              "timestamp": "1755765477738",
+              "allowedScreens": [
+                "small",
+                "large"
+              ],
+              "gravity": "top",
+              "extraInfo": {
+                "originalName": "e1",
+                "assetId": "a388fe2addaf476791388ce997d0096e",
+                "deliveryUrl": "https://static.zara.net/assets/public/a388/fe2a/ddaf47679138/8ce997d0096e/05584344600-e1/05584344600-e1.jpg?ts=1755765477738",
+                "deliveryPath": "/assets/public/a388/fe2a/ddaf47679138/8ce997d0096e/05584344600-e1/05584344600-e1.jpg?ts=1755765477738"
+              },
+              "url": "https://static.zara.net/assets/public/a388/fe2a/ddaf47679138/8ce997d0096e/05584344600-e1/05584344600-e1.jpg?ts=1755765477738&w={width}",
+              "metaUrl": "https://static.zara.net/assets/public/a388/fe2a/ddaf47679138/8ce997d0096e/meta.json?ts=1755765477745",
+              "order": 6
+            },
+            {
+              "datatype": "xmedia",
+              "set": 2,
+              "type": "image",
+              "kind": "plain",
+              "path": "/assets/public/a774/d46f/432948518f3d/f4a1dd3b6b43/05584344600-000-e2",
+              "name": "05584344600-000-e2",
+              "width": 2048,
+              "height": 3072,
+              "timestamp": "1760361262826",
+              "allowedScreens": [
+                "small",
+                "large"
+              ],
+              "gravity": "top",
+              "extraInfo": {
+                "originalName": "e2",
+                "assetId": "a774d46f432948518f3df4a1dd3b6b43",
+                "deliveryUrl": "https://static.zara.net/assets/public/a774/d46f/432948518f3d/f4a1dd3b6b43/05584344600-000-e2/05584344600-000-e2.jpg?ts=1760361262826",
+                "deliveryPath": "/assets/public/a774/d46f/432948518f3d/f4a1dd3b6b43/05584344600-000-e2/05584344600-000-e2.jpg?ts=1760361262826"
+              },
+              "url": "https://static.zara.net/assets/public/a774/d46f/432948518f3d/f4a1dd3b6b43/05584344600-000-e2/05584344600-000-e2.jpg?ts=1760361262826&w={width}",
+              "metaUrl": "https://static.zara.net/assets/public/a774/d46f/432948518f3d/f4a1dd3b6b43/meta.json?ts=1760361262833",
+              "order": 7
+            },
+            {
+              "datatype": "xmedia",
+              "set": 2,
+              "type": "image",
+              "kind": "plain",
+              "path": "/assets/public/c75b/6a32/11f3498d9fbe/3e2919f58afe/05584344600-e3",
+              "name": "05584344600-e3",
+              "width": 2048,
+              "height": 3072,
+              "timestamp": "1755765476047",
+              "allowedScreens": [
+                "small",
+                "large"
+              ],
+              "gravity": "top",
+              "extraInfo": {
+                "originalName": "e3",
+                "assetId": "c75b6a3211f3498d9fbe3e2919f58afe",
+                "deliveryUrl": "https://static.zara.net/assets/public/c75b/6a32/11f3498d9fbe/3e2919f58afe/05584344600-e3/05584344600-e3.jpg?ts=1755765476047",
+                "deliveryPath": "/assets/public/c75b/6a32/11f3498d9fbe/3e2919f58afe/05584344600-e3/05584344600-e3.jpg?ts=1755765476047"
+              },
+              "url": "https://static.zara.net/assets/public/c75b/6a32/11f3498d9fbe/3e2919f58afe/05584344600-e3/05584344600-e3.jpg?ts=1755765476047&w={width}",
+              "metaUrl": "https://static.zara.net/assets/public/c75b/6a32/11f3498d9fbe/3e2919f58afe/meta.json?ts=1755765476054",
+              "order": 8
+            },
+            {
+              "datatype": "xmedia",
+              "set": 2,
+              "type": "image",
+              "kind": "plain",
+              "path": "/assets/public/b3ec/0a52/0e6348c69e6c/553bb681a544/05584344600-000-e4",
+              "name": "05584344600-000-e4",
+              "width": 2048,
+              "height": 3072,
+              "timestamp": "1760100758703",
+              "allowedScreens": [
+                "small",
+                "large"
+              ],
+              "gravity": "top",
+              "extraInfo": {
+                "originalName": "e4",
+                "assetId": "b3ec0a520e6348c69e6c553bb681a544",
+                "deliveryUrl": "https://static.zara.net/assets/public/b3ec/0a52/0e6348c69e6c/553bb681a544/05584344600-000-e4/05584344600-000-e4.jpg?ts=1760100758703",
+                "deliveryPath": "/assets/public/b3ec/0a52/0e6348c69e6c/553bb681a544/05584344600-000-e4/05584344600-000-e4.jpg?ts=1760100758703"
+              },
+              "url": "https://static.zara.net/assets/public/b3ec/0a52/0e6348c69e6c/553bb681a544/05584344600-000-e4/05584344600-000-e4.jpg?ts=1760100758703&w={width}",
+              "metaUrl": "https://static.zara.net/assets/public/b3ec/0a52/0e6348c69e6c/553bb681a544/meta.json?ts=1760100758712",
+              "order": 9
+            }
+          ],
+          "shopcartMedia": [
+            {
+              "datatype": "xmedia",
+              "set": 2,
+              "type": "image",
+              "kind": "other",
+              "path": "/assets/public/43bc/fca0/0ce543aca723/e8a24c1fabd6/05584344600-f1",
+              "name": "05584344600-f1",
+              "width": 2048,
+              "height": 3072,
+              "timestamp": "1769212506253",
+              "allowedScreens": [
+                "small",
+                "large"
+              ],
+              "gravity": "top",
+              "extraInfo": {
+                "originalName": "f1",
+                "assetId": "43bcfca00ce543aca723e8a24c1fabd6",
+                "deliveryUrl": "https://static.zara.net/assets/public/43bc/fca0/0ce543aca723/e8a24c1fabd6/05584344600-f1/05584344600-f1.jpg?ts=1769212506253",
+                "deliveryPath": "/assets/public/43bc/fca0/0ce543aca723/e8a24c1fabd6/05584344600-f1/05584344600-f1.jpg?ts=1769212506253"
+              },
+              "url": "https://static.zara.net/assets/public/43bc/fca0/0ce543aca723/e8a24c1fabd6/05584344600-f1/05584344600-f1.jpg?ts=1769212506253&w={width}",
+              "metaUrl": "https://static.zara.net/assets/public/43bc/fca0/0ce543aca723/e8a24c1fabd6/meta.json?ts=1769212506257"
+            }
+          ],
+          "colorSelectorMedias": [
+            {
+              "datatype": "xmedia",
+              "set": 2,
+              "type": "image",
+              "kind": "other",
+              "path": "/assets/public/43bc/fca0/0ce543aca723/e8a24c1fabd6/05584344600-f1",
+              "name": "05584344600-f1",
+              "width": 2048,
+              "height": 3072,
+              "timestamp": "1769212506253",
+              "allowedScreens": [
+                "small",
+                "large"
+              ],
+              "gravity": "top",
+              "extraInfo": {
+                "originalName": "f1",
+                "assetId": "43bcfca00ce543aca723e8a24c1fabd6",
+                "deliveryUrl": "https://static.zara.net/assets/public/43bc/fca0/0ce543aca723/e8a24c1fabd6/05584344600-f1/05584344600-f1.jpg?ts=1769212506253",
+                "deliveryPath": "/assets/public/43bc/fca0/0ce543aca723/e8a24c1fabd6/05584344600-f1/05584344600-f1.jpg?ts=1769212506253"
+              },
+              "url": "https://static.zara.net/assets/public/43bc/fca0/0ce543aca723/e8a24c1fabd6/05584344600-f1/05584344600-f1.jpg?ts=1769212506253&w={width}",
+              "metaUrl": "https://static.zara.net/assets/public/43bc/fca0/0ce543aca723/e8a24c1fabd6/meta.json?ts=1769212506257"
+            }
+          ],
+          "price": 999,
+          "oldPrice": 1299,
+          "originalPrice": 3595,
+          "displayDiscountPercentage": 72,
+          "discountPercentage": "72%",
+          "discountLabel": "-72%",
+          "sizes": [
+            {
+              "availability": "out_of_stock",
+              "equivalentSizeId": 125,
+              "id": 97,
+              "name": "S-M",
+              "oldPrice": 1299,
+              "price": 999,
+              "originalPrice": 3595,
+              "displayDiscountPercentage": 72,
+              "discountPercentage": "72%",
+              "discountLabel": "-72%",
+              "reference": "0558434460097-I2025",
+              "sku": 472397210,
+              "attributes": [
+                {
+                  "type": "Mark",
+                  "identifier": "PACKAGING",
+                  "name": "",
+                  "values": [],
+                  "properties": {
+
+                  }
+                },
+                {
+                  "type": "Valued",
+                  "identifier": "CONFECTION",
+                  "name": "",
+                  "values": [
+                    "TR"
+                  ],
+                  "properties": {
+
+                  }
+                }
+              ],
+              "demand": "DEMAND_REGULAR"
+            },
+            {
+              "availability": "out_of_stock",
+              "equivalentSizeId": 131,
+              "id": 96,
+              "name": "L-XL",
+              "oldPrice": 1299,
+              "price": 999,
+              "originalPrice": 3595,
+              "displayDiscountPercentage": 72,
+              "discountPercentage": "72%",
+              "discountLabel": "-72%",
+              "reference": "0558434460096-I2025",
+              "sku": 472397211,
+              "attributes": [
+                {
+                  "type": "Mark",
+                  "identifier": "PACKAGING",
+                  "name": "",
+                  "values": [],
+                  "properties": {
+
+                  }
+                },
+                {
+                  "type": "Valued",
+                  "identifier": "CONFECTION",
+                  "name": "",
+                  "values": [
+                    "TR"
+                  ],
+                  "properties": {
+
+                  }
+                }
+              ],
+              "demand": "DEMAND_REGULAR"
+            }
+          ],
+          "description": "Relaxed fit trousers. Elasticated drawstring waistband. Side pockets.",
+          "rawDescription": "Relaxed fit trousers. Elasticated drawstring waistband. Side pockets.",
+          "extraInfo": {
+            "isStockInStoresAvailable": true,
+            "highlightPrice": false
+          },
+          "customizations": [],
+          "tagTypes": [],
+          "attributes": [
+            {
+              "type": "Smart_tag",
+              "identifier": "TAG_BFCRO25_3_COLLECTION",
+              "name": "Bfcro25",
+              "values": [],
+              "properties": {
+                "probability": "1.0",
+                "source": "GROUP",
+                "type": "COLLECTION",
+                "typeProbability": "1.0"
+              }
+            },
+            {
+              "type": "Smart_tag",
+              "identifier": "TAG_LOWERBODY_LAYERS_3_LAYERS",
+              "name": "LOWERBODY_LAYERS",
+              "values": [],
+              "properties": {
+                "probability": "1.0",
+                "source": "GROUP",
+                "type": "LAYERS",
+                "typeProbability": "1.0"
+              }
+            }
+          ],
+          "relations": [
+            {
+              "ids": [452713436, 462608482, 441150470, 459131806],
+              "type": "PACMAN-LOOK"
+            }
+          ],
+          "promotions": [
+            {
+              "name": "SALES-I2025_ZARA_PT",
+              "startDate": "2026-01-22T21:24:04Z",
+              "endDate": "2026-05-20T09:00:00Z"
+            }
+          ],
+          "pricing": {
+            "price": {
+              "value": 999,
+              "currency": {
+                "code": "EUR"
+              }
+            },
+            "promotions": [
+              {
+                "name": "SALES-I2025_ZARA_PT",
+                "startDate": "2026-01-22T21:24:04Z",
+                "endDate": "2026-05-20T09:00:00Z"
+              }
+            ]
+          },
+          "mainImgs": [
+            {
+              "datatype": "xmedia",
+              "set": 2,
+              "type": "image",
+              "kind": "full",
+              "path": "/assets/public/6810/4e6d/9b554e7aab96/8fdd93cca48e/05584344600-p",
+              "name": "05584344600-p",
+              "width": 2048,
+              "height": 3072,
+              "timestamp": "1755766288826",
+              "allowedScreens": [
+                "large",
+                "small"
+              ],
+              "gravity": "top",
+              "extraInfo": {
+                "originalName": "p",
+                "assetId": "68104e6d9b554e7aab968fdd93cca48e",
+                "deliveryUrl": "https://static.zara.net/assets/public/6810/4e6d/9b554e7aab96/8fdd93cca48e/05584344600-p/05584344600-p.jpg?ts=1755766288826",
+                "deliveryPath": "/assets/public/6810/4e6d/9b554e7aab96/8fdd93cca48e/05584344600-p/05584344600-p.jpg?ts=1755766288826"
+              },
+              "url": "https://static.zara.net/assets/public/6810/4e6d/9b554e7aab96/8fdd93cca48e/05584344600-p/05584344600-p.jpg?ts=1755766288826&w={width}",
+              "metaUrl": "https://static.zara.net/assets/public/6810/4e6d/9b554e7aab96/8fdd93cca48e/meta.json?ts=1755766288832",
+              "order": 1
+            },
+            {
+              "datatype": "xmedia",
+              "set": 2,
+              "type": "image",
+              "kind": "other",
+              "path": "/assets/public/0ff3/a065/95d0499991d9/225cdf3fdb64/05584344600-a1",
+              "name": "05584344600-a1",
+              "width": 2048,
+              "height": 3072,
+              "timestamp": "1755766288674",
+              "allowedScreens": [
+                "small",
+                "large"
+              ],
+              "gravity": "top",
+              "extraInfo": {
+                "originalName": "a1",
+                "assetId": "0ff3a06595d0499991d9225cdf3fdb64",
+                "deliveryUrl": "https://static.zara.net/assets/public/0ff3/a065/95d0499991d9/225cdf3fdb64/05584344600-a1/05584344600-a1.jpg?ts=1755766288674",
+                "deliveryPath": "/assets/public/0ff3/a065/95d0499991d9/225cdf3fdb64/05584344600-a1/05584344600-a1.jpg?ts=1755766288674"
+              },
+              "url": "https://static.zara.net/assets/public/0ff3/a065/95d0499991d9/225cdf3fdb64/05584344600-a1/05584344600-a1.jpg?ts=1755766288674&w={width}",
+              "metaUrl": "https://static.zara.net/assets/public/0ff3/a065/95d0499991d9/225cdf3fdb64/meta.json?ts=1755766288680",
+              "order": 2
+            },
+            {
+              "datatype": "xmedia",
+              "set": 2,
+              "type": "image",
+              "kind": "other",
+              "path": "/assets/public/ff04/cd4a/5d964aa69e9c/87a92b754f21/05584344600-000-a2",
+              "name": "05584344600-000-a2",
+              "width": 2048,
+              "height": 3072,
+              "timestamp": "1760100757985",
+              "allowedScreens": [
+                "small",
+                "large"
+              ],
+              "gravity": "top",
+              "extraInfo": {
+                "originalName": "a2",
+                "assetId": "ff04cd4a5d964aa69e9c87a92b754f21",
+                "deliveryUrl": "https://static.zara.net/assets/public/ff04/cd4a/5d964aa69e9c/87a92b754f21/05584344600-000-a2/05584344600-000-a2.jpg?ts=1760100757985",
+                "deliveryPath": "/assets/public/ff04/cd4a/5d964aa69e9c/87a92b754f21/05584344600-000-a2/05584344600-000-a2.jpg?ts=1760100757985"
+              },
+              "url": "https://static.zara.net/assets/public/ff04/cd4a/5d964aa69e9c/87a92b754f21/05584344600-000-a2/05584344600-000-a2.jpg?ts=1760100757985&w={width}",
+              "metaUrl": "https://static.zara.net/assets/public/ff04/cd4a/5d964aa69e9c/87a92b754f21/meta.json?ts=1760100757992",
+              "order": 3
+            },
+            {
+              "datatype": "xmedia",
+              "set": 2,
+              "type": "image",
+              "kind": "other",
+              "path": "/assets/public/f4ed/9289/bab442b3aae3/edfc656073e4/05584344600-a3",
+              "name": "05584344600-a3",
+              "width": 2048,
+              "height": 3072,
+              "timestamp": "1755766288719",
+              "allowedScreens": [
+                "small",
+                "large"
+              ],
+              "gravity": "top",
+              "extraInfo": {
+                "originalName": "a3",
+                "assetId": "f4ed9289bab442b3aae3edfc656073e4",
+                "deliveryUrl": "https://static.zara.net/assets/public/f4ed/9289/bab442b3aae3/edfc656073e4/05584344600-a3/05584344600-a3.jpg?ts=1755766288719",
+                "deliveryPath": "/assets/public/f4ed/9289/bab442b3aae3/edfc656073e4/05584344600-a3/05584344600-a3.jpg?ts=1755766288719"
+              },
+              "url": "https://static.zara.net/assets/public/f4ed/9289/bab442b3aae3/edfc656073e4/05584344600-a3/05584344600-a3.jpg?ts=1755766288719&w={width}",
+              "metaUrl": "https://static.zara.net/assets/public/f4ed/9289/bab442b3aae3/edfc656073e4/meta.json?ts=1755766288726",
+              "order": 4
+            },
+            {
+              "datatype": "xmedia",
+              "set": 2,
+              "type": "image",
+              "kind": "other",
+              "path": "/assets/public/5db2/acb4/87e445af92ef/4d4df536c431/05584344600-a4",
+              "name": "05584344600-a4",
+              "width": 2048,
+              "height": 3072,
+              "timestamp": "1755766289165",
+              "allowedScreens": [
+                "small",
+                "large"
+              ],
+              "gravity": "top",
+              "extraInfo": {
+                "originalName": "a4",
+                "assetId": "5db2acb487e445af92ef4d4df536c431",
+                "deliveryUrl": "https://static.zara.net/assets/public/5db2/acb4/87e445af92ef/4d4df536c431/05584344600-a4/05584344600-a4.jpg?ts=1755766289165",
+                "deliveryPath": "/assets/public/5db2/acb4/87e445af92ef/4d4df536c431/05584344600-a4/05584344600-a4.jpg?ts=1755766289165"
+              },
+              "url": "https://static.zara.net/assets/public/5db2/acb4/87e445af92ef/4d4df536c431/05584344600-a4/05584344600-a4.jpg?ts=1755766289165&w={width}",
+              "metaUrl": "https://static.zara.net/assets/public/5db2/acb4/87e445af92ef/4d4df536c431/meta.json?ts=1755766289173",
+              "order": 5
+            },
+            {
+              "datatype": "xmedia",
+              "set": 2,
+              "type": "image",
+              "kind": "plain",
+              "path": "/assets/public/a388/fe2a/ddaf47679138/8ce997d0096e/05584344600-e1",
+              "name": "05584344600-e1",
+              "width": 2048,
+              "height": 3072,
+              "timestamp": "1755765477738",
+              "allowedScreens": [
+                "small",
+                "large"
+              ],
+              "gravity": "top",
+              "extraInfo": {
+                "originalName": "e1",
+                "assetId": "a388fe2addaf476791388ce997d0096e",
+                "deliveryUrl": "https://static.zara.net/assets/public/a388/fe2a/ddaf47679138/8ce997d0096e/05584344600-e1/05584344600-e1.jpg?ts=1755765477738",
+                "deliveryPath": "/assets/public/a388/fe2a/ddaf47679138/8ce997d0096e/05584344600-e1/05584344600-e1.jpg?ts=1755765477738"
+              },
+              "url": "https://static.zara.net/assets/public/a388/fe2a/ddaf47679138/8ce997d0096e/05584344600-e1/05584344600-e1.jpg?ts=1755765477738&w={width}",
+              "metaUrl": "https://static.zara.net/assets/public/a388/fe2a/ddaf47679138/8ce997d0096e/meta.json?ts=1755765477745",
+              "order": 6
+            },
+            {
+              "datatype": "xmedia",
+              "set": 2,
+              "type": "image",
+              "kind": "plain",
+              "path": "/assets/public/a774/d46f/432948518f3d/f4a1dd3b6b43/05584344600-000-e2",
+              "name": "05584344600-000-e2",
+              "width": 2048,
+              "height": 3072,
+              "timestamp": "1760361262826",
+              "allowedScreens": [
+                "small",
+                "large"
+              ],
+              "gravity": "top",
+              "extraInfo": {
+                "originalName": "e2",
+                "assetId": "a774d46f432948518f3df4a1dd3b6b43",
+                "deliveryUrl": "https://static.zara.net/assets/public/a774/d46f/432948518f3d/f4a1dd3b6b43/05584344600-000-e2/05584344600-000-e2.jpg?ts=1760361262826",
+                "deliveryPath": "/assets/public/a774/d46f/432948518f3d/f4a1dd3b6b43/05584344600-000-e2/05584344600-000-e2.jpg?ts=1760361262826"
+              },
+              "url": "https://static.zara.net/assets/public/a774/d46f/432948518f3d/f4a1dd3b6b43/05584344600-000-e2/05584344600-000-e2.jpg?ts=1760361262826&w={width}",
+              "metaUrl": "https://static.zara.net/assets/public/a774/d46f/432948518f3d/f4a1dd3b6b43/meta.json?ts=1760361262833",
+              "order": 7
+            },
+            {
+              "datatype": "xmedia",
+              "set": 2,
+              "type": "image",
+              "kind": "plain",
+              "path": "/assets/public/c75b/6a32/11f3498d9fbe/3e2919f58afe/05584344600-e3",
+              "name": "05584344600-e3",
+              "width": 2048,
+              "height": 3072,
+              "timestamp": "1755765476047",
+              "allowedScreens": [
+                "small",
+                "large"
+              ],
+              "gravity": "top",
+              "extraInfo": {
+                "originalName": "e3",
+                "assetId": "c75b6a3211f3498d9fbe3e2919f58afe",
+                "deliveryUrl": "https://static.zara.net/assets/public/c75b/6a32/11f3498d9fbe/3e2919f58afe/05584344600-e3/05584344600-e3.jpg?ts=1755765476047",
+                "deliveryPath": "/assets/public/c75b/6a32/11f3498d9fbe/3e2919f58afe/05584344600-e3/05584344600-e3.jpg?ts=1755765476047"
+              },
+              "url": "https://static.zara.net/assets/public/c75b/6a32/11f3498d9fbe/3e2919f58afe/05584344600-e3/05584344600-e3.jpg?ts=1755765476047&w={width}",
+              "metaUrl": "https://static.zara.net/assets/public/c75b/6a32/11f3498d9fbe/3e2919f58afe/meta.json?ts=1755765476054",
+              "order": 8
+            },
+            {
+              "datatype": "xmedia",
+              "set": 2,
+              "type": "image",
+              "kind": "plain",
+              "path": "/assets/public/b3ec/0a52/0e6348c69e6c/553bb681a544/05584344600-000-e4",
+              "name": "05584344600-000-e4",
+              "width": 2048,
+              "height": 3072,
+              "timestamp": "1760100758703",
+              "allowedScreens": [
+                "small",
+                "large"
+              ],
+              "gravity": "top",
+              "extraInfo": {
+                "originalName": "e4",
+                "assetId": "b3ec0a520e6348c69e6c553bb681a544",
+                "deliveryUrl": "https://static.zara.net/assets/public/b3ec/0a52/0e6348c69e6c/553bb681a544/05584344600-000-e4/05584344600-000-e4.jpg?ts=1760100758703",
+                "deliveryPath": "/assets/public/b3ec/0a52/0e6348c69e6c/553bb681a544/05584344600-000-e4/05584344600-000-e4.jpg?ts=1760100758703"
+              },
+              "url": "https://static.zara.net/assets/public/b3ec/0a52/0e6348c69e6c/553bb681a544/05584344600-000-e4/05584344600-000-e4.jpg?ts=1760100758703&w={width}",
+              "metaUrl": "https://static.zara.net/assets/public/b3ec/0a52/0e6348c69e6c/553bb681a544/meta.json?ts=1760100758712",
+              "order": 9
+            }
+          ],
+          "priceUnavailable": false,
+          "isOnSale": true
+        }
+      ],
+      "colorSelectorLabel": "Colour",
+      "detailedComposition": {
+        "parts": [
+          {
+            "description": "OUTER SHELL",
+            "areas": [],
+            "components": [
+              {
+                "material": "viscose",
+                "percentage": "87%"
+              },
+              {
+                "material": "polyester",
+                "percentage": "11%"
+              },
+              {
+                "material": "elastane",
+                "percentage": "2%"
+              }
+            ],
+            "microcontents": [],
+            "reinforcements": []
+          }
+        ],
+        "exceptions": []
+      },
+      "relatedProducts": []
+    },
+    "section": 2,
+    "sectionName": "MAN",
+    "familyId": 73,
+    "familyName": "PANTALON",
+    "subfamilyId": 12455,
+    "subfamilyName": "Pant. Circular",
+    "extraInfo": {
+      "isSizeRecommender": true,
+      "hasSpecialReturnConditions": false,
+      "isNonReturnable": false,
+      "hasInteractiveSizeGuide": true,
+      "extraDetailTitle": "Composition, care & origin",
+      "isBracketingRestricted": true,
+      "hasTipsOnExtraDetail": true,
+      "highlightPrice": false,
+      "isRecommendedCarouselEnabled": true,
+      "isVirtualTryOnSupported": false
+    },
+    "seo": {
+      "keyword": "striped-relaxed-fit-trousers",
+      "description": "Relaxed fit trousers. Elasticated drawstring waistband. Side pockets.",
+      "breadCrumb": [
+        {
+          "text": "STRIPED RELAXED FIT TROUSERS",
+          "id": 0
+        }
+      ],
+      "seoProductId": "05584344",
+      "discernProductId": 472398470,
+      "keyWordI18n": [
+        {
+          "langId": -1,
+          "keyword": "striped-relaxed-fit-trousers"
+        },
+        {
+          "langId": -6,
+          "keyword": "calcas-relaxed-fit-as-riscas"
+        }
+      ]
+    },
+    "firstVisibleDate": "2025-08-14T00:00:00Z",
+    "attributes": [],
+    "sizeGuide": {
+      "enabled": true
+    },
+    "sizeSystem": "13765",
+    "xmedia": [],
+    "productTag": []
+  }
+]

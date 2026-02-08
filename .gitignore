@@ -1,0 +1,5 @@
+example.json
+proxies.json
+.NOTE
+node_modules
+.env
