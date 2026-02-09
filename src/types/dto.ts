@@ -2,6 +2,12 @@ export type CategoryDto = {
 	id: number;
 	key: string;
 	name: string;
+	sectionName?: string;
+	layout?: string;
+	irrelevant?: boolean;
+	seo?: {
+		keyword?: string;
+	};
 	subcategories?: CategoryDto[];
 };
 

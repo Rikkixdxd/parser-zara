@@ -1,6 +1,6 @@
 import { closeDbPool, dbPool } from "~/db/client.js";
 import { setupDatabase } from "~/db/setup.js";
-import { extractCategoriesInfo, extractProductsIds } from "~/extraction/dto.js";
+import { extractProductCategoriesInfo, extractProductsIds } from "~/extraction/dto.js";
 import { getAllCategories, getCategoryFilters, getProductDetails } from "~/extraction/api.js";
 import { ProductsRepository } from "./db/repositories/products_details.repo.js";
 import { ProductsDetailsDtoRepository } from "./db/repositories/product_details_dto.repo.js";
@@ -33,16 +33,17 @@ async function main() {
   console.log("Categories not found in database, fetching from API...");
   const allCategoriesRaw = await getAllCategories();
   console.log('### Fetched categories from API, saving to database...');
-  const categoriesInfo = extractCategoriesInfo(allCategoriesRaw);
+  const categoriesInfo = extractProductCategoriesInfo(allCategoriesRaw);
   for (const entry of categoriesInfo) {
     categoryIds.add(entry.id);
     categoryNames.set(entry.id, entry.name);
     await CategoriesRepo.upsert({ id: entry.id, name_en: entry.name });
   }
   console.log('Saved category IDs in memory...');
-  
+
+  const tempp = Array.from(categoryIds).slice(0, 10);
   // getting filters for each category and extracting product ids
-  for (const categoryId of categoryIds) {
+  for (const categoryId of tempp) {
     console.log('### Getting category filters...');
     console.log('Processing category ID: ' + categoryId);
     console.log('Category name: ' + (categoryNames.get(categoryId) ?? ""));
@@ -59,16 +60,19 @@ async function main() {
     }
   }
 
-  const ids = Array.from(productIds);
+  const ids = Array.from(productIds).slice(0, 100);
   for (let i = 0; i < ids.length; i += 5) {
     const chunk = ids.slice(i, i + 5);
     console.log('chunk: ' + chunk.join(", "));
     console.log(`### Fetched product details for IDs: ${chunk.join(", ")}`);
     const details = await getProductDetails(chunk);
+    const wearDetails = details.filter(
+      (detail) => detail.kind?.toLowerCase() === "wear"
+    );
     console.log('Fetched details.');
-    await ProductDetailsDtoRepo.upsertMany(details);
+    await ProductDetailsDtoRepo.upsertMany(wearDetails);
 
-    for (const detail of details) {
+    for (const detail of wearDetails) {
       const normalized = normalizeProductDetails(detail);
       const productId = normalized.product.sku;
 
