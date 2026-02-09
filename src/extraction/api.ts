@@ -3,7 +3,7 @@ import { CategoryDto, FiltersResponseDto, ProductDetailsDto } from "~/types/dto.
 import axios from "axios";
   
 export async function getAllCategories(): Promise<CategoryDto[]> {
-  const response = await httpClient.get<{ categories: CategoryDto[] }>("/pt/en/categories");
+  const response = await httpClient.get<{ categories: CategoryDto[] }>("/categories");
   return response.data.categories;
 }
 
@@ -12,7 +12,7 @@ export async function getCategoryFilters(
 ): Promise<FiltersResponseDto> {
   try {
     const response = await httpClient.get<FiltersResponseDto>(
-      `/pt/en/category/${categoryId}/filters`,
+      `/category/${categoryId}/filters`,
       {
         params: {
           ajax: true
@@ -37,7 +37,7 @@ export async function getProductDetails(
 ): Promise<ProductDetailsDto[]> {
   try {
     const response = await httpClient.get<ProductDetailsDto[]>(
-      `/pt/en/products-details`,
+      `/products-details`,
       {
         params: {
           productIds,
