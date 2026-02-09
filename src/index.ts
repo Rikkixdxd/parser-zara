@@ -41,9 +41,8 @@ async function main() {
   }
   console.log('Saved category IDs in memory...');
 
-  const tempp = Array.from(categoryIds).slice(0, 10);
   // getting filters for each category and extracting product ids
-  for (const categoryId of tempp) {
+  for (const categoryId of categoryIds) {
     console.log('### Getting category filters...');
     console.log('Processing category ID: ' + categoryId);
     console.log('Category name: ' + (categoryNames.get(categoryId) ?? ""));
@@ -60,7 +59,7 @@ async function main() {
     }
   }
 
-  const ids = Array.from(productIds).slice(0, 100);
+  const ids = Array.from(productIds)
   for (let i = 0; i < ids.length; i += 5) {
     const chunk = ids.slice(i, i + 5);
     console.log('chunk: ' + chunk.join(", "));
